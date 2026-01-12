@@ -1,4 +1,4 @@
-# Xiaomi Home Integration for Home Assistant1
+# Xiaomi Home Integration for Home Assistant12
 
 [English](./README.md) | [简体中文](./doc/README_zh.md)
 
